@@ -9,5 +9,17 @@
         <item name="android:textColor">@color/my_text</item>
     </style>
 
+
+
+
+
+
+
+
+
+
+
+
+
     <style name="Theme.AlfredosAndroidLabs" parent="Base.Theme.AlfredosAndroidLabs" />
 </resources>
