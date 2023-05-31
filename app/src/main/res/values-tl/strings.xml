@@ -3,4 +3,5 @@
     <string name="app_name">Alfredo\'s Android Labs</string>
     <string name="hello_message">Hello mundo!</string>
     <string name="button_message">ako ay isang butones</string>
+    <string name="edit_text">Ako ay isang tekstong edit</string>
 </resources>
